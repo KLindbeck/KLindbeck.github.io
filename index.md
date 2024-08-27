@@ -2,26 +2,21 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Nodal IT Support
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+#### Technical Skills: CSS, HTML5, AWS, Project Management, Customer Support
 
 # Education
 
-Assocaite of Applied Science Networking & Cyber Defense
+-A.A.S., Networking & Cyber Defense | Pima Community College (_May 2024_)
 
-IT Support Specialist Certification 
+-IT Support Specialist Certification | Pima Community College (_August 2024_)
 
 ## Work Experience 
 
-Amazon
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Nodal IT Support @ Amazon (_January 2021 - Present_)**
+- Provided on-site support to multiple Amazon Facilities including, Warehouse, Delivery Stations, XL Sites, and Cross Dock Delivery.
+- Collaberated on and Support new facilities being built both in and out of the State of Arizona.
 
 ### Projects
 
