@@ -25,7 +25,7 @@ layout: default
 - A weather app created using Python3.
 > Download <a href="https://github.com/KLindbeck/WeatherApp/releases/tag/WeatherApp"> here </a>
 
-<h4> Snake </h4>
+<h4> Snake </h4> 
 
 -My rendition of the classic game Snake(_1998_)
 > Download <a href="https://github.com/KLindbeck/SnakeGame/releases/tag/Beta"> here </a>
