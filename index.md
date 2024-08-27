@@ -6,7 +6,7 @@ layout: default
 
 #### Technical Skills: CSS, HTML5, AWS, Project Management, Customer Support
 
-# Education
+## Education
 
 -A.A.S., Networking & Cyber Defense | Pima Community College (_May 2024_)
 
@@ -18,7 +18,19 @@ layout: default
 - Provided on-site support to multiple Amazon Facilities including, Warehouse, Delivery Stations, XL Sites, and Cross Dock Delivery.
 - Collaberated on and Support new facilities being built both in and out of the State of Arizona.
 
-### Projects
+## Projects
+
+<h4> Weather App </h4>
+
+- A weather app created using Python3.
+> Download <a href="https://github.com/KLindbeck/WeatherApp/releases/tag/WeatherApp"> here </a>
+
+<h4> Snake </h4>
+
+-My rendition of the classic game Snake(_1998_)
+> Download <a href="https://github.com/KLindbeck/SnakeGame/releases/tag/Beta"> here </a>
+
+
 
 ```js
 // Javascript code with syntax highlighting.
