@@ -23,22 +23,37 @@ layout: default
 
 ## Work Experience 
 
-** Nodal IT Support @ Amazon (January 2021 - Present) **
+**Nodal IT Support @ Amazon (January 2021 - Present)**
 - Provided on-site support to multiple Amazon Facilities including, Warehouse, Delivery Stations, XL Sites, and Cross Dock Delivery.
 - Collaberated on and Support new facilities being built both in and out of the State of Arizona.
 
 ## Projects
 
 <h4> Weather App </h4>
-
 - A weather app created using Python3.
-> Download <a href="https://github.com/KLindbeck/WeatherApp/releases/tag/WeatherApp"> here </a>
+<br>>Download <a href="https://github.com/KLindbeck/WeatherApp/releases/tag/WeatherApp"> here </a> </br>
 
 <h4> Snake </h4> 
+-My rendition of the classic game <i>Snake(1998)</i>
+<br>>Download <a href="https://github.com/KLindbeck/SnakeGame/releases/tag/Beta"> here </a> </br>
 
--My rendition of the classic game Snake(_1998_)
-> Download <a href="https://github.com/KLindbeck/SnakeGame/releases/tag/Beta"> here </a>
+<h4>TCPhoneChecker Implimentation</h4>
 
+*  Implemented and modified a tool that checks for unregistered assests connected to company assets.
+*  Applied a custom and modified wordbank to greatly expand our ability to detect violations.
+*  Caught 5 infosec violations.
+
+<h4>Louisiana Builds</h4>
+-During the Summer of 2024 I spent 5 weeks between Baton Rouge and Shreveport helping build and impliment new technology in the Next Generation of Amazon Buildings. 
+
+<h4>Internal Amazon Webmaster/Administrator</h4>
+
+-Currently over see 9 Interal Webpages for Amazon
+
+This includes:
+*   5 pages relating to specific Amazon locations
+*   3 Affinity groups including 1 Corporate Chapter
+*   1 page relating to career oppertunities within Amazon
 
 
 ```js
