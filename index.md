@@ -34,7 +34,7 @@ layout: default
 >Download <a href="https://github.com/KLindbeck/WeatherApp/releases/tag/WeatherApp"> here </a>
 
 <h4> Snake </h4> 
--My rendition of the classic game <i>Snake(1998)</i>
+- My rendition of the classic game <i>Snake(1998)</i>
 >Download <a href="https://github.com/KLindbeck/SnakeGame/releases/tag/Beta"> here </a>
 
 <h4>TCPhoneChecker Implimentation</h4>
