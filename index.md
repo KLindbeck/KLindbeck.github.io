@@ -19,10 +19,11 @@ layout: default
 
 <dt>IT Support Specialist Certification</dt>
   <dd>Pima Community College (August 2024)</dd> 
+</dl>
 
 ## Work Experience 
 
-**Nodal IT Support @ Amazon (_January 2021 - Present_)**
+** Nodal IT Support @ Amazon (January 2021 - Present) **
 - Provided on-site support to multiple Amazon Facilities including, Warehouse, Delivery Stations, XL Sites, and Cross Dock Delivery.
 - Collaberated on and Support new facilities being built both in and out of the State of Arizona.
 
