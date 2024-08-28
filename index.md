@@ -7,10 +7,18 @@ layout: default
 #### Technical Skills: CSS, HTML5, AWS, Project Management, Customer Support
 
 ## Education
+<dl>
+<dt>Technician, Ham Radio License</dt>
+  <dd>Federal Communications Commission</dd>
 
--A.A.S., Networking & Cyber Defense | Pima Community College (_May 2024_)
+<dt>AWS Certified Cloud Practitioner</dt>
+  <dd>Amazon</dd>
+  
+<dt>A.A.S., Networking & Cyber Defense</dt>
+  <dd>Pima Community College (May 2024)</dd>
 
--IT Support Specialist Certification | Pima Community College (_August 2024_)
+<dt>IT Support Specialist Certification</dt>
+  <dd>Pima Community College (August 2024)</dd> 
 
 ## Work Experience 
 
