@@ -44,11 +44,12 @@ layout: default
 *  Caught 5 infosec violations.
 
 <h4>Louisiana Builds</h4>
--During the Summer of 2024 I spent 5 weeks between Baton Rouge and Shreveport helping build and impliment new technology in the Next Generation of Amazon Buildings. 
+
+- During the Summer of 2024 I spent 5 weeks between Baton Rouge and Shreveport helping build and impliment new technology in the Next Generation of Amazon Buildings. 
 
 <h4>Internal Amazon Webmaster/Administrator</h4>
 
--Currently over see 9 Interal Webpages for Amazon
+- Currently over see 9 Interal Webpages for Amazon
 
 This includes:
 *   5 pages relating to specific Amazon locations
